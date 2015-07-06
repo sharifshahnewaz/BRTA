@@ -1,0 +1,10 @@
+D:\Brta\BrtaModel\bin\Release\BrtaModel.dll
+D:\Brta\BrtaModel\bin\Release\BrtaModel.pdb
+D:\Brta\BrtaModel\obj\Release\ResolveAssemblyReference.cache
+D:\Brta\BrtaModel\obj\Release\BrtaModel.dll
+D:\Brta\BrtaModel\obj\Release\BrtaModel.pdb
+G:\From My Laptop\Local Disk (D)\Brta\BrtaModel\bin\Release\BrtaModel.dll
+G:\From My Laptop\Local Disk (D)\Brta\BrtaModel\bin\Release\BrtaModel.pdb
+G:\From My Laptop\Local Disk (D)\Brta\BrtaModel\obj\Release\ResolveAssemblyReference.cache
+G:\From My Laptop\Local Disk (D)\Brta\BrtaModel\obj\Release\BrtaModel.dll
+G:\From My Laptop\Local Disk (D)\Brta\BrtaModel\obj\Release\BrtaModel.pdb

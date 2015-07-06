@@ -1,0 +1,5 @@
+D:\Brta\BrtaModel\bin\Debug\BrtaModel.dll
+D:\Brta\BrtaModel\bin\Debug\BrtaModel.pdb
+D:\Brta\BrtaModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Brta\BrtaModel\obj\Debug\BrtaModel.dll
+D:\Brta\BrtaModel\obj\Debug\BrtaModel.pdb

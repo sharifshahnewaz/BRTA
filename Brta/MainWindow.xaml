@@ -1,0 +1,111 @@
+﻿<Window x:Class="Brta.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Transport Pool Inventory Management System" Height="auto" Width="auto" WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" Background="Transparent" WindowStyle="None"
+        Icon="/Brta;component/Images/Car-Repair.ico">
+    <Grid Background="{DynamicResource WindowBackgroundBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Name="menus" Margin="3">
+            <MenuItem Header="_File">
+                <MenuItem Name="nmuAddNew" Header="_Add New" />
+                
+                <MenuItem Name="mnuExit" Header="_Exit" />
+            </MenuItem>
+
+            <MenuItem Header="_Settings">
+                <MenuItem Name="mnuChangePW" Header="Change _Password" />
+                <MenuItem Name="mnuChangeDB" Header="Change _Database" />
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1" Margin="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Name="grdLeftButton">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Name="stpButtonHolder">
+                    <Button Name="btnTools" Height="100" Width="140" Margin="3" Click="btnTools_Click">
+                        <Button.Content>
+                            <StackPanel Margin="3">
+                                <Image  Width="60" Source="/Brta;component/Images/tools.ico"></Image>
+                                <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Tools</TextBlock>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Name="btnHistory" Height="100" Width="140" Margin="3" Click="btnHistory_Click">
+                        <Button.Content>
+                            <StackPanel Margin="3">
+                                <Image  Width="60" Source="/Brta;component/Images/history.ico"></Image>
+                                <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">History</TextBlock>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Name="btnEmergency" Height="100" Width="140" Margin="3" Click="btnEmergency_Click">
+                        <Button.Content>
+                            <StackPanel Margin="3">
+                                <Image  Width="60" Source="/Brta;component/Images/emergency.ico"></Image>
+                                <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Emergency</TextBlock>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                    <Button Name="btnCarModel"  Width="140" Height="100" Margin="3" Click="btnCarModel_Click">
+                        <Button.Content>
+                            <StackPanel Margin="3">
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image  Width="60" Source="/Brta;component/Images/racing.ico"></Image>
+                                        <Image  Width="50" Source="/Brta;component/Images/yellow-pickup.ico"></Image>
+                                    </StackPanel>
+                                    <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Car Model</TextBlock>
+                            </StackPanel>
+                        </Button.Content>                        
+                    </Button>
+                        
+                        <Button Name="btnCars"  Width="140" Height="100" Margin="3" Click="btnCars_Click">
+                            <Button.Content>
+                                <StackPanel Margin="3">
+                                    <Image  Width="60" Source="/Brta;component/Images/bmw-mini.ico"></Image>
+                                    <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Cars</TextBlock>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                        <Button Name="btnCategory"  Width="140" Height="100" Margin="3" Click="btnCategory_Click">
+                            <Button.Content>
+                                <StackPanel Margin="3">
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image  Width="50" Source="/Brta;component/Images/chain.ico"></Image>
+                                        <Image  Width="50" Source="/Brta;component/Images/spur-gear.ico"></Image>                                        
+                                    </StackPanel>
+                                    <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Category</TextBlock>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                        <Button Name="btnManufacturer"  Width="140" Height="100" Margin="3" Click="btnManufacturer_Click">
+                            <Button.Content>
+                                <StackPanel Margin="3">
+                                    <Image  Width="60" Source="/Brta;component/Images/industry.ico"></Image>
+                                    <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">Manufacturer</TextBlock>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                        <Button Name="btnUser"  Width="140" Height="100" Margin="3" Click="btnUser_Click">
+                            <Button.Content>
+                                <StackPanel Margin="3">
+                                    <Image  Width="60" Source="/Brta;component/Images/user.ico"></Image>
+                                    <TextBlock FontSize="20" Margin="5,5,5,0" HorizontalAlignment="Center" VerticalAlignment="Center">User</TextBlock>
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+            <Grid Name="mainGrid" Grid.Column="1" >
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+</Window>

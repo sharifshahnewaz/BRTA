@@ -1,0 +1,110 @@
+D:\Brta\Brta\obj\Release\ResolveAssemblyReference.cache
+D:\Brta\Brta\obj\Release\MainWindow.baml
+D:\Brta\Brta\obj\Release\Styles\Brushes.baml
+D:\Brta\Brta\obj\Release\Styles\CustomTheme.baml
+D:\Brta\Brta\obj\Release\Styles\ExpressionDark.baml
+D:\Brta\Brta\obj\Release\Styles\ExpressionLight.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCarModel.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCars.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditPartsDetail.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditUser.baml
+D:\Brta\Brta\obj\Release\UserControls\ucCarModel.baml
+D:\Brta\Brta\obj\Release\UserControls\ucCars.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCategory.baml
+D:\Brta\Brta\obj\Release\UserControls\ucCategories.baml
+D:\Brta\Brta\obj\Release\UserControls\ucDelivery.baml
+D:\Brta\Brta\obj\Release\UserControls\ucEmergency.baml
+D:\Brta\Brta\obj\Release\UserControls\ucLogin.baml
+D:\Brta\Brta\obj\Release\UserControls\ucRepairsHistory.baml
+D:\Brta\Brta\obj\Release\UserControls\ucToolsPreview.baml
+D:\Brta\Brta\obj\Release\UserControls\ucUsers.baml
+D:\Brta\Brta\obj\Release\winDialog.baml
+D:\Brta\Brta\obj\Release\App.baml
+D:\Brta\Brta\obj\Release\MainWindow.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCarModel.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCars.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditPartsDetail.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditUser.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucCarModel.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucCars.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditCategory.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucCategories.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucDelivery.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucEmergency.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucLogin.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucRepairsHistory.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucToolsPreview.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucUsers.g.cs
+D:\Brta\Brta\obj\Release\winDialog.g.cs
+D:\Brta\Brta\obj\Release\App.g.cs
+D:\Brta\Brta\obj\Release\Brta_MarkupCompile.cache
+D:\Brta\Brta\obj\Release\Brta.g.resources
+D:\Brta\Brta\obj\Release\Brta.Properties.Resources.resources
+D:\Brta\Brta\obj\Release\Brta.csproj.GenerateResource.Cache
+D:\Brta\Brta\bin\Release\Brta.exe
+D:\Brta\Brta\bin\Release\Brta.pdb
+D:\Brta\Brta\bin\Release\BrtaModel.dll
+D:\Brta\Brta\bin\Release\WPFToolkit.dll
+D:\Brta\Brta\bin\Release\BrtaModel.pdb
+D:\Brta\Brta\bin\Release\WPFToolkit.pdb
+D:\Brta\Brta\obj\Release\Brta.exe
+D:\Brta\Brta\obj\Release\Brta.pdb
+D:\Brta\Brta\obj\Release\UserControls\ucManufacturer.baml
+D:\Brta\Brta\obj\Release\UserControls\ucManufacturer.g.cs
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditManufacturer.baml
+D:\Brta\Brta\obj\Release\UserControls\ucAddEditManufacturer.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta.exe
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta.pdb
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\Brta.exe
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\Brta.pdb
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\BrtaModel.dll
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\WPFToolkit.dll
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\BrtaModel.pdb
+G:\From My Laptop\Local Disk (D)\Brta\Brta\bin\Release\WPFToolkit.pdb
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\ResolveAssemblyReference.cache
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\MainWindow.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Styles\Brushes.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Styles\CustomTheme.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Styles\ExpressionDark.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Styles\ExpressionLight.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCarModel.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCars.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditManufacturer.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditPartsDetail.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditUser.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCarModel.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCars.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCategory.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCategories.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucDelivery.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucEmergency.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucLogin.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucManufacturer.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucRepairsHistory.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucToolsPreview.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucUsers.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\winDialog.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\App.baml
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\MainWindow.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCarModel.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCars.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditManufacturer.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditPartsDetail.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditUser.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCarModel.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCars.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucAddEditCategory.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucCategories.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucDelivery.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucEmergency.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucLogin.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucManufacturer.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucRepairsHistory.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucToolsPreview.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\UserControls\ucUsers.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\winDialog.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\App.g.cs
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta_MarkupCompile.cache
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta.g.resources
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta.Properties.Resources.resources
+G:\From My Laptop\Local Disk (D)\Brta\Brta\obj\Release\Brta.csproj.GenerateResource.Cache

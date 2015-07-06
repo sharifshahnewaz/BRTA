@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brta", "Brta\Brta.csproj", "{146A1E35-0404-4335-8E47-9340AC347C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrtaModel", "BrtaModel\BrtaModel.csproj", "{493DC03B-C896-4ADC-BA67-A2A12010945C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TPIMS", "TPIMS\TPIMS.vdproj", "{88E4F05F-2C07-4989-95B9-7E1CC88A2255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146A1E35-0404-4335-8E47-9340AC347C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146A1E35-0404-4335-8E47-9340AC347C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146A1E35-0404-4335-8E47-9340AC347C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146A1E35-0404-4335-8E47-9340AC347C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493DC03B-C896-4ADC-BA67-A2A12010945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493DC03B-C896-4ADC-BA67-A2A12010945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493DC03B-C896-4ADC-BA67-A2A12010945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493DC03B-C896-4ADC-BA67-A2A12010945C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E4F05F-2C07-4989-95B9-7E1CC88A2255}.Debug|Any CPU.ActiveCfg = Debug
+		{88E4F05F-2C07-4989-95B9-7E1CC88A2255}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
